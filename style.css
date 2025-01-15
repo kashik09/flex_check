@@ -118,3 +118,7 @@ main img {
 main h2{
     font-size: 3rem;
 }
+
+main p {
+    padding-top: 10px;
+}
