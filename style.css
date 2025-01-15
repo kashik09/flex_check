@@ -86,6 +86,7 @@ input[type=text] {
 
 input[type=text]::placeholder {
     font-size: 1rem;
+    font-family: "Roboto", sans-serif;
 }
 
 form button {
