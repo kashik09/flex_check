@@ -115,10 +115,37 @@ main img {
     margin: 0 auto;
 }
 
-main h2{
-    font-size: 3rem;
+main h2 {
+    font-size: 2.5rem;
+    padding-bottom: .3rem;
+    text-align: center;
+    margin: auto;
+}
+
+main h3 {
+    font-size: 1.5rem;
+    padding-bottom: .3rem;
+    text-align: center;
 }
 
 main p {
-    padding-top: 10px;
+    font-size: 1.3rem;
+    padding-bottom: .3rem;
+    text-align: justify;
+}
+
+div.container {
+    /* border: solid black 3px; */
+    margin: auto;
+    display: flex;
+    width: 210vh;
+}
+
+div.content {
+    background-color: rgb(190, 47, 47);
+    color: #fff;
+    border-radius: 7px;
+    padding: .5rem 1rem;
+    margin: 1rem;
+    width: 50%;
 }
