@@ -138,7 +138,7 @@ div.container {
     /* border: solid black 3px; */
     margin: auto;
     display: flex;
-    width: 210vh;
+    width: 100%;
 }
 
 div.content {
