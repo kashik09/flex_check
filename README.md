@@ -16,6 +16,11 @@ This project showcases a responsive webpage layout utilizing CSS Flexbox. It inc
 - Clean and modern layout achieved with flexboxes.
 - Organized file structure for easy navigation and maintenance.
 
+## Live Preview
+
+You can view the live version of this project here:  
+[Live Preview](https://kashik09.github.io/flex_check/)
+
 ## Getting Started
 
 To view the project locally:
